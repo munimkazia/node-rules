@@ -1,6 +1,9 @@
 [Node-rules](http://mithunsatheesh.github.io/node-rules)
 =====
 
+This repository is obsolete. Please find the latest updates at [https://github.com/mithunsatheesh/node-rules](https://github.com/mithunsatheesh/node-rules)
+--------------------------------------------------------------------------------------------------------------
+
 ## About
 
 Node-rules is a forward chaining Rules Engine, written on node.js.
